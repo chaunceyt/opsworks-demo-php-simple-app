@@ -19,7 +19,7 @@
                 <h2>Congratulations!</h2>
                 <p>Your PHP application is now running in a container on host &ldquo;<?php echo gethostname(); ?>&rdquo; running in an Openshift Origin cluster.</p>
                 <p>This host is running PHP version <?php echo phpversion(); ?>.</p>
-		<p>Application version: v2.0.0</p>
+		<p>Application version: v2.0.1</p>
             </div>
         </div>
 
